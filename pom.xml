@@ -93,7 +93,7 @@
             <name>The Apache Software License, Version 2.0</name>
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
             <distribution>repo</distribution>
-            <comments />
+            <comments/>
         </license>
     </licenses>
 
@@ -381,7 +381,7 @@
                             <id>enforce</id>
                             <configuration>
                                 <rules>
-                                    <dependencyConvergence />
+                                    <dependencyConvergence/>
                                 </rules>
                             </configuration>
                             <goals>
@@ -731,19 +731,19 @@
             <dependency>
                 <groupId>org.apache.velocity</groupId>
                 <artifactId>velocity-engine-core</artifactId>
-                <version>2.2</version>
+                <version>2.3</version>
             </dependency>
 
             <dependency>
                 <groupId>org.apache.velocity.tools</groupId>
                 <artifactId>velocity-tools-view</artifactId>
-                <version>3.0</version>
+                <version>3.1</version>
             </dependency>
 
             <dependency>
                 <groupId>org.apache.velocity.tools</groupId>
                 <artifactId>velocity-tools-view-jsp</artifactId>
-                <version>3.0</version>
+                <version>3.1</version>
             </dependency>
 
             <dependency>
